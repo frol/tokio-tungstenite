@@ -19,8 +19,8 @@ stream = ["bytes"]
 
 [dependencies]
 log = "0.4"
-futures = "0.3"
-pin-project = "0.4"
+futures = "0.3.0"
+pin-project = "0.4.0-alpha.9"
 tokio-io = "0.2.0-alpha.6"
 
 [dependencies.tungstenite]
